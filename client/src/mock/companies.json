@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Tata Consultancy Services",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Information Technology",
+    "employees": 614000,
+    "founded": 1968
+  },
+  {
+    "id": 2,
+    "name": "Infosys",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Information Technology",
+    "employees": 343000,
+    "founded": 1981
+  },
+  {
+    "id": 3,
+    "name": "Wipro",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Information Technology",
+    "employees": 245000,
+    "founded": 1945
+  },
+  {
+    "id": 4,
+    "name": "HCL Technologies",
+    "location": "Noida, Uttar Pradesh",
+    "industry": "Information Technology",
+    "employees": 225000,
+    "founded": 1976
+  },
+  {
+    "id": 5,
+    "name": "Tech Mahindra",
+    "location": "Pune, Maharashtra",
+    "industry": "Information Technology",
+    "employees": 145000,
+    "founded": 1986
+  },
+  {
+    "id": 6,
+    "name": "Larsen & Toubro",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Engineering & Construction",
+    "employees": 340000,
+    "founded": 1938
+  },
+  {
+    "id": 7,
+    "name": "Reliance Industries Limited",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Conglomerate",
+    "employees": 389000,
+    "founded": 1966
+  },
+  {
+    "id": 8,
+    "name": "Adani Group",
+    "location": "Ahmedabad, Gujarat",
+    "industry": "Conglomerate",
+    "employees": 230000,
+    "founded": 1988
+  },
+  {
+    "id": 9,
+    "name": "Hindustan Unilever Limited",
+    "location": "Mumbai, Maharashtra",
+    "industry": "FMCG",
+    "employees": 21000,
+    "founded": 1933
+  },
+  {
+    "id": 10,
+    "name": "Mahindra & Mahindra",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Automotive",
+    "employees": 200000,
+    "founded": 1945
+  },
+  {
+    "id": 11,
+    "name": "Bajaj Auto",
+    "location": "Pune, Maharashtra",
+    "industry": "Automotive",
+    "employees": 10000,
+    "founded": 1945
+  },
+  {
+    "id": 12,
+    "name": "Maruti Suzuki India Ltd",
+    "location": "Gurugram, Haryana",
+    "industry": "Automotive",
+    "employees": 34000,
+    "founded": 1981
+  },
+  {
+    "id": 13,
+    "name": "Tata Motors",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Automotive",
+    "employees": 81000,
+    "founded": 1945
+  },
+  {
+    "id": 14,
+    "name": "State Bank of India",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Finance",
+    "employees": 250000,
+    "founded": 1955
+  },
+  {
+    "id": 15,
+    "name": "ICICI Bank",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Finance",
+    "employees": 130000,
+    "founded": 1994
+  },
+  {
+    "id": 16,
+    "name": "HDFC Bank",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Finance",
+    "employees": 177000,
+    "founded": 1994
+  },
+  {
+    "id": 17,
+    "name": "Axis Bank",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Finance",
+    "employees": 90000,
+    "founded": 1993
+  },
+  {
+    "id": 18,
+    "name": "Kotak Mahindra Bank",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Banking & Finance",
+    "employees": 78000,
+    "founded": 1985
+  },
+  {
+    "id": 19,
+    "name": "IndusInd Bank",
+    "location": "Pune, Maharashtra",
+    "industry": "Banking & Finance",
+    "employees": 50000,
+    "founded": 1994
+  },
+  {
+    "id": 20,
+    "name": "Bharti Airtel",
+    "location": "New Delhi",
+    "industry": "Telecommunications",
+    "employees": 24000,
+    "founded": 1995
+  },
+  {
+    "id": 21,
+    "name": "Vodafone Idea",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Telecommunications",
+    "employees": 10000,
+    "founded": 2018
+  },
+  {
+    "id": 22,
+    "name": "Jio Platforms Limited",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Telecommunications",
+    "employees": 12000,
+    "founded": 2019
+  },
+  {
+    "id": 23,
+    "name": "Zerodha",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Fintech",
+    "employees": 1300,
+    "founded": 2010
+  },
+  {
+    "id": 24,
+    "name": "Razorpay",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Fintech",
+    "employees": 2500,
+    "founded": 2014
+  },
+  {
+    "id": 25,
+    "name": "PhonePe",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Fintech",
+    "employees": 3000,
+    "founded": 2015
+  },
+  {
+    "id": 26,
+    "name": "Paytm",
+    "location": "Noida, Uttar Pradesh",
+    "industry": "Fintech",
+    "employees": 7000,
+    "founded": 2010
+  },
+  {
+    "id": 27,
+    "name": "BYJU'S",
+    "location": "Bengaluru, Karnataka",
+    "industry": "EdTech",
+    "employees": 15000,
+    "founded": 2011
+  },
+  {
+    "id": 28,
+    "name": "Unacademy",
+    "location": "Bengaluru, Karnataka",
+    "industry": "EdTech",
+    "employees": 5000,
+    "founded": 2015
+  },
+  {
+    "id": 29,
+    "name": "Vedantu",
+    "location": "Bengaluru, Karnataka",
+    "industry": "EdTech",
+    "employees": 2000,
+    "founded": 2014
+  },
+  {
+    "id": 30,
+    "name": "Swiggy",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Food Delivery",
+    "employees": 6000,
+    "founded": 2014
+  },
+  {
+    "id": 31,
+    "name": "Zomato",
+    "location": "Gurugram, Haryana",
+    "industry": "Food Delivery",
+    "employees": 5000,
+    "founded": 2008
+  },
+  {
+    "id": 32,
+    "name": "Ola Cabs",
+    "location": "Bengaluru, Karnataka",
+    "industry": "Transportation",
+    "employees": 7000,
+    "founded": 2010
+  },
+  {
+    "id": 33,
+    "name": "Flipkart",
+    "location": "Bengaluru, Karnataka",
+    "industry": "E-commerce",
+    "employees": 40000,
+    "founded": 2007
+  },
+  {
+    "id": 34,
+    "name": "Myntra",
+    "location": "Bengaluru, Karnataka",
+    "industry": "E-commerce",
+    "employees": 2500,
+    "founded": 2007
+  },
+  {
+    "id": 35,
+    "name": "Nykaa",
+    "location": "Mumbai, Maharashtra",
+    "industry": "E-commerce",
+    "employees": 3000,
+    "founded": 2012
+  },
+  {
+    "id": 36,
+    "name": "BigBasket",
+    "location": "Bengaluru, Karnataka",
+    "industry": "E-commerce",
+    "employees": 12000,
+    "founded": 2011
+  },
+  {
+    "id": 37,
+    "name": "Delhivery",
+    "location": "Gurugram, Haryana",
+    "industry": "Logistics",
+    "employees": 25000,
+    "founded": 2011
+  },
+  {
+    "id": 38,
+    "name": "Bluedart",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Logistics",
+    "employees": 12000,
+    "founded": 1983
+  },
+  {
+    "id": 39,
+    "name": "Indian Oil Corporation",
+    "location": "New Delhi",
+    "industry": "Energy & Petroleum",
+    "employees": 33000,
+    "founded": 1959
+  },
+  {
+    "id": 40,
+    "name": "Bharat Petroleum",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Energy & Petroleum",
+    "employees": 12500,
+    "founded": 1952
+  },
+  {
+    "id": 41,
+    "name": "Hindustan Petroleum",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Energy & Petroleum",
+    "employees": 11000,
+    "founded": 1974
+  },
+  {
+    "id": 42,
+    "name": "Coal India Limited",
+    "location": "Kolkata, West Bengal",
+    "industry": "Mining",
+    "employees": 248000,
+    "founded": 1975
+  },
+  {
+    "id": 43,
+    "name": "Steel Authority of India",
+    "location": "New Delhi",
+    "industry": "Metals & Mining",
+    "employees": 62000,
+    "founded": 1954
+  },
+  {
+    "id": 44,
+    "name": "JSW Steel",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Metals & Mining",
+    "employees": 13000,
+    "founded": 1982
+  },
+  {
+    "id": 45,
+    "name": "Tata Steel",
+    "location": "Jamshedpur, Jharkhand",
+    "industry": "Metals & Mining",
+    "employees": 77000,
+    "founded": 1907
+  },
+  {
+    "id": 46,
+    "name": "Godrej Group",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Conglomerate",
+    "employees": 23000,
+    "founded": 1897
+  },
+  {
+    "id": 47,
+    "name": "Amul",
+    "location": "Anand, Gujarat",
+    "industry": "Dairy & FMCG",
+    "employees": 10000,
+    "founded": 1946
+  },
+  {
+    "id": 48,
+    "name": "Parle Products",
+    "location": "Mumbai, Maharashtra",
+    "industry": "FMCG",
+    "employees": 12000,
+    "founded": 1929
+  },
+  {
+    "id": 49,
+    "name": "Asian Paints",
+    "location": "Mumbai, Maharashtra",
+    "industry": "Manufacturing",
+    "employees": 7500,
+    "founded": 1942
+  },
+  {
+    "id": 50,
+    "name": "Apollo Hospitals",
+    "location": "Chennai, Tamil Nadu",
+    "industry": "Healthcare",
+    "employees": 62000,
+    "founded": 1983
+  }
+]
